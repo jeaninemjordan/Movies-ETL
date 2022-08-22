@@ -7,17 +7,17 @@
 The purpose of this project is to create an automated pipeline from raw data that imports new data, applies a series of specified transformations that clean and format the data, and load it into existing tables within an SQL database. A function was written that read three separate data files: a JSON file containing miscellaneous Wikipedia movie data, a CSV file containing the MovieLens dataset (20,000,000 film ratings), and a CSV file containing movie metadata from 45,000 movies rated within the MovieLens dataset. 
 
 ### Datasets:
-•	Wikipedia-movies.json, 6.02 MB, downloaded from Wikipedia.com
-•	Ratings.csv (MovieLens Data Set), 692.92 MB, downloaded from Kaggle.com
-•	Movies_metadata.csv, 33.64 MB, downloaded from Kaggle.com
+*	Wikipedia-movies.json, 6.02 MB, downloaded from Wikipedia.com
+*	Ratings.csv (MovieLens Data Set), 692.92 MB, downloaded from Kaggle.com
+* Movies_metadata.csv, 33.64 MB, downloaded from Kaggle.com
 
 ### Resources:
-•	Python 3.7.9 (Dependencies: Pandas, NumPy, SQLalchemy, Psycopg2)
-•	PostgreSQL 11.16
-•	Conda 4.13.0
-•	Anaconda Navigator 2.2.7
-•	Jupyter Notebook 6.4.8
-•	pgAdmin 4, Version 6.8
+* Python 3.7.9 (Dependencies: Pandas, NumPy, SQLalchemy, Psycopg2)
+*	PostgreSQL 11.16
+*	Conda 4.13.0
+*	Anaconda Navigator 2.2.7
+*	Jupyter Notebook 6.4.8
+*	pgAdmin 4, Version 6.8
 
 ### Overview
 
