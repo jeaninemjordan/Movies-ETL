@@ -2,6 +2,8 @@
 
 ## Using the ETL (Extract, Transform, Load) process to import, clean and transform big data into an SQL database with Python, Pandas, and PostgreSQL. 
 
+![](Resources/Movies_Image.png)
+
 ### Purpose
 
 The purpose of this project is to create an automated pipeline from raw data that imports new data, applies a series of specified transformations that clean and format the data, and load it into existing tables within an SQL database. A function was written that read three separate data files: a JSON file containing miscellaneous Wikipedia movie data, a CSV file containing the MovieLens dataset (20,000,000 film ratings), and a CSV file containing movie metadata from 45,000 movies rated within the MovieLens dataset. 
