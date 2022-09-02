@@ -2,7 +2,7 @@
 
 ## Using the ETL (Extract, Transform, Load) process to import, clean and transform big data into an SQL database with Python, Pandas, and PostgreSQL. 
 
-![](Resources/Movies_Image.png)
+![](Resources/Movies_IMAGE.png)
 
 ### Purpose
 
